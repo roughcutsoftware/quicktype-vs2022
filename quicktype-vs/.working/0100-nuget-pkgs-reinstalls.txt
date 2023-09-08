@@ -1,0 +1,5 @@
+﻿
+
+NuGet\Install-Package Microsoft.VisualStudio.ComponentModelHost -Version 15.0.26201
+
+NuGet\Install-Package Microsoft.VisualStudio.Editor -Version 15.0.26201
